@@ -1,0 +1,56 @@
+Round 1 CDCI Scores
+#-----------------------------------------
+shift - 
+    fixed  0.195259   
+    random_mean  0.195285 
+
+substitution - 
+    fixed  0.183666   
+    random_mean  0.183464 
+
+vignere - 0.238939  
+    fixed  0.232658   
+    random_mean  0.238939
+
+hill -   
+    fixed  0.229223   
+    random_mean  0.233693 
+
+transposition -    
+    fixed  0.222813   
+    random_mean  0.219012 
+
+adfgvx -  
+    fixed  0.347540   
+    random_mean  0.351402 
+
+Round 2 CDCI Scores
+#-----------------------------------------
+Shift 
+    plaintext - (MNBVCXZLKJHGFDSAPOIUYTREWQZYXWVUTSRQPONMLKJIHGFEDCBAABCDEFGHIJ" * 6)
+    fixed 0.186709 
+    random_mean 0.186528
+    
+substitution
+    plaintext - ("THEQUICKBROWNFOXJUMPSOVERTHELAZYDOG" * 6)
+    fixed  0.188213   
+    random_mean  0.187928 
+
+Vignere
+    plaintext - ("It is a truth universally acknowledged that a single man in possession of a good fortune must be in want of a wife However little known the feelings or views of such a man may be on his first entering a neighbourhood this truth is so well fixed in the minds of the surrounding families that he is considered the rightful property of some one or other of their daughters My dear Mr Bennet said his lady to him one day have you heard that Netherfield Park is let at last Mr Bennet replied that he had not But it is returned she for Mrs Long has just been here and she told me all about it Mr Bennet made no answer Do not you want to know who has taken it Cried his wife impatiently You want to tell me and I have no objection to hearing it This was invitation enough Why my dear you must know Mrs Long says that Netherfield is taken by a young man of large fortune from the north of England What is his name" * 6)
+    fixed 0.228445
+    random_mean 0.230422   
+
+hill
+    plaintext - ("AdistributedsystemisacollectionofindependententitiesthatcooperatetosolveaproblemthatcannotbeindividuallysolvedDistributedsystemshavebeeninexistencesincethestartoftheuniverseFromaschooloffishtoaflockofbirdsandentireecosystemsofmicroorganismsthereiscommunicationamongmobileintelligentagentsinnatureWiththewidespreadproliferationoftheinternetandtheemergingglobalvillagethenotionofdistributedcomputingsystemsasausefulandwidelydeployedtoolisbecomingareality")
+    fixed  0.232356   
+    random_mean  0.233246 
+
+adfgvx
+    plaintext - ("THEQUICKBROWNFOXJUMPSOVERTHELAZYDOG0123456789" * 4)
+    fixed  0.352806   
+    random_mean  0.351956
+
+
+
+
